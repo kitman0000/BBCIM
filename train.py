@@ -1,4 +1,3 @@
-# source /data/zxy/strategy_model/.venv/bin/activate
 # export PYTHONPATH=./
 # accelerate launch ./src/os_intent/train.py
 
