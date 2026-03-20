@@ -60,6 +60,7 @@ transformers 5.2.0
 
 ## Usage
 
+Download the checkpoint here [kitman0000/BBCIM](https://huggingface.co/kitman0000/BBCIM)
 
 Use just a few simple lines of codes to inference
 
